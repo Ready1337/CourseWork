@@ -1,9 +1,8 @@
-from get_next_members import calculate_sequence
-from numpy import load
+from biffurcation import create_biffurcation_diagram
 
 
 def init():
-    calculate_sequence(0.5, 0.5, 1.1)
+    create_biffurcation_diagram()
 
 
 if __name__ == '__main__':
