@@ -50,3 +50,17 @@ def unpack_sequence(p, name):
             sequence[i] = xy_sequence[i][1]
 
     return sequence
+
+
+def count_plot_values(x_sequence, y_sequence):
+    joined_sequence = list()
+    for i in range(1000):
+        joined_sequence.append((x_sequence[i], y_sequence[i]))
+
+    count_list = list()
+
+    for value in joined_sequence:
+        if value not in count_list:
+            count_list.append(value)
+
+    return len(count_list)
