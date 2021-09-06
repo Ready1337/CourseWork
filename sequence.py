@@ -57,10 +57,10 @@ def count_plot_values(x_sequence, y_sequence):
     for i in range(1000):
         joined_sequence.append((x_sequence[i], y_sequence[i]))
 
-    count_list = list()
+    count_list = dict()
 
     for value in joined_sequence:
-        if value not in count_list:
-            count_list.append(value)
+        if f'{value[0]}, {value[1]}' not in count_list.keys():
+            count_list[f'{value[0]}, {value[1]}'] = 1
 
-    return len(count_list)
+    return 3*len(count_list)

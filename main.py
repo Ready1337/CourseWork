@@ -4,7 +4,7 @@ from pool import create_pool
 
 def init():
     #create_biffurcation_diagram()
-    create_pool(0.8)
+    create_pool(0.85)
 
 
 if __name__ == '__main__':
