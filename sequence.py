@@ -63,4 +63,4 @@ def count_plot_values(x_sequence, y_sequence):
         if f'{value[0]}, {value[1]}' not in count_list.keys():
             count_list[f'{value[0]}, {value[1]}'] = 1
 
-    return 3*len(count_list)
+    return len(count_list)
