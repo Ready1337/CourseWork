@@ -20,6 +20,9 @@ def create_pool(p):
 
             color = colors[count_plot_values(x_sequence, y_sequence)]
             plt.scatter(x, y, s=5, c=color)
+            plt.xlabel('x-axis')
+            plt.ylabel('y-axis')
+            plt.legend(f'p = {p}')
             print(x, y, color)
 
     plt.show()

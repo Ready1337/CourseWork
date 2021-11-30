@@ -9,17 +9,17 @@ def generate_p_plots():
     for p in p_list:
         calculate_sequence(0.25, 0.16, p)
 
+    return p_list
+
 
 def create_biffurcation_diagram():
-    generate_p_plots()
-
     figure = plt.figure()
     axes = figure.add_subplot(111, projection='3d')
     axes.set_xlabel('x-axis')
     axes.set_ylabel('y-axis')
     axes.set_zlabel('p-axis')
 
-    p_values = np.arange(0.79, 1.08, 0.001)
+    p_values = generate_p_plots()
     for p in p_values:
         x_sequence = unpack_sequence(p, 'x')
         y_sequence = unpack_sequence(p, 'y')
