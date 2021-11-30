@@ -47,9 +47,9 @@ The phrase "cross-section" is not quite suitable only due to the fact that there
 <a href="https://ibb.co/9bnw1CF"><img src="https://i.ibb.co/x1hmBRp/82.png" alt="82" border="0"></a>
 <a href="https://ibb.co/S6VDdB5"><img src="https://i.ibb.co/D1wP8Qz/83.png" alt="83" border="0"></a>
 <a href="https://ibb.co/NKHnx2k"><img src="https://i.ibb.co/vkKv14r/84.png" alt="84" border="0"></a>
-<a href="https://ibb.co/C5ygxrV"><img src="https://i.ibb.co/VWGRXKM/85.png" alt="85" border="0"></a>
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/0jXD3Bj0/85.png' border='0' alt='85'/></a>
 <a href="https://ibb.co/hKCdHHv"><img src="https://i.ibb.co/jLHwGGF/86.png" alt="86" border="0"></a>
 <a href="https://ibb.co/QCYgkMC"><img src="https://i.ibb.co/jW3NzDW/87.png" alt="87" border="0"></a>
-<a href="https://ibb.co/w4cdGmw"><img src="https://i.ibb.co/HqhKw8x/88.png" alt="88" border="0"></a>
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/FKxf8Bnk/88.png' border='0' alt='88'/></a>
 <a href="https://ibb.co/26BK8wv"><img src="https://i.ibb.co/QcGm8ZP/89.png" alt="89" border="0"></a>
 <a href="https://ibb.co/2czDg9f"><img src="https://i.ibb.co/wpn9Mkx/90.png" alt="90" border="0"></a>
