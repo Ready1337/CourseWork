@@ -40,5 +40,16 @@ At this stage, the bifurcation itself is already clearly visible.
 
 The phrase "cross-section" is not quite suitable only due to the fact that there is no single starting point with specific coordinates <img src="https://latex.codecogs.com/png.latex?\inline&space;\bg_white&space;(x_0,&space;y_0)" title="(x_0, y_0)" /> when constructing the pool of attraction. On the contrary, the range of the starting points of their direct product <img src="https://latex.codecogs.com/png.latex?\inline&space;\bg_white&space;[0,&space;1]&space;\times&space;[0,&space;1]" title="[0, 1] \times [0, 1]" /> with a sufficient step is used. However, the phrase helps to understand what happens during the initial acquaintance.
 
-<b>The following graphs are obtained for the parameters <img src="https://latex.codecogs.com/png.latex?\inline&space;\bg_white&space;p" title="p" /> from <img src="https://latex.codecogs.com/png.latex?\inline&space;\bg_white&space;[0.79,&space;0.91]" title="[0.79, 0.91]" /> with a step of <img src="https://latex.codecogs.com/png.latex?\inline&space;\bg_white&space;0.01" title="0.01" />:</b>
-*pictures of pools*
+<b>The following graphs are obtained for the parameters <img src="https://latex.codecogs.com/png.latex?\inline&space;\bg_white&space;[0.79,&space;0.9]" title="[0.79, 0.9]" /> with a step of <img src="https://latex.codecogs.com/png.latex?\inline&space;\bg_white&space;0.01" title="0.01" />:</b>
+<a href="https://ibb.co/0D34n3V"><img src="https://i.ibb.co/BzRWfRK/79.png" alt="79" border="0"></a>
+<a href="https://ibb.co/8rJphzk"><img src="https://i.ibb.co/bsxZfHt/80.png" alt="80" border="0"></a>
+<a href="https://ibb.co/GnvqhwS"><img src="https://i.ibb.co/YP7xr9s/81.png" alt="81" border="0"></a>
+<a href="https://ibb.co/9bnw1CF"><img src="https://i.ibb.co/x1hmBRp/82.png" alt="82" border="0"></a>
+<a href="https://ibb.co/S6VDdB5"><img src="https://i.ibb.co/D1wP8Qz/83.png" alt="83" border="0"></a>
+<a href="https://ibb.co/NKHnx2k"><img src="https://i.ibb.co/vkKv14r/84.png" alt="84" border="0"></a>
+<a href="https://ibb.co/C5ygxrV"><img src="https://i.ibb.co/VWGRXKM/85.png" alt="85" border="0"></a>
+<a href="https://ibb.co/hKCdHHv"><img src="https://i.ibb.co/jLHwGGF/86.png" alt="86" border="0"></a>
+<a href="https://ibb.co/QCYgkMC"><img src="https://i.ibb.co/jW3NzDW/87.png" alt="87" border="0"></a>
+<a href="https://ibb.co/w4cdGmw"><img src="https://i.ibb.co/HqhKw8x/88.png" alt="88" border="0"></a>
+<a href="https://ibb.co/26BK8wv"><img src="https://i.ibb.co/QcGm8ZP/89.png" alt="89" border="0"></a>
+<a href="https://ibb.co/2czDg9f"><img src="https://i.ibb.co/wpn9Mkx/90.png" alt="90" border="0"></a>
