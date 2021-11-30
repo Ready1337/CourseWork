@@ -2,8 +2,8 @@
 
 There is no term "attractive set", but there are sets of points (x_n, y_n) to which sequences tend at different values of parameters p and starting points (x_0, y_0)
 
-x_(n+1) = F1(x_n, y_n, p) = p*(3y_n + 1)*x_n*(1 - x_n),
-y_(n+1) = F2(x_n, y_n, p) = p*(3x_n + 1)*y_n*(1 - y_n)
+$\[x_{n+1} = F1(x_n, y_n, p) = p(3y_n + 1)x_n(1 - x_n)\]$
+$\[y_{n+1} = F2(x_n, y_n, p) = p(3x_n + 1)y_n(1 - y_n)\]$
 
 By their meaning, these relations allow predicting the behavior of a group of neurons.
 
