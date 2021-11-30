@@ -1,6 +1,6 @@
 # Search-for-attractive-sets-of-recurrent-sequences
 
-There is no term "attractive set", but there are sets of points  <img src="https://latex.codecogs.com/png.latex?\inline&space;\bg_white&space;(x_n,&space;y_n)" title="(x_n, y_n)" />  to which sequences tend at different values of parameters p and starting points <img src="https://latex.codecogs.com/png.latex?\inline&space;\bg_white&space;(x_0,&space;y_0)" title="(x_0, y_0)" />
+There is no term "attractive set", but there are sets of points  <img src="https://latex.codecogs.com/png.latex?\inline&space;\bg_white&space;(x_n,&space;y_n)" title="(x_n, y_n)" />  to which sequences tend at different values of parameters <img src="https://latex.codecogs.com/png.latex?\inline&space;\bg_white&space;p" title="p" /> and starting points <img src="https://latex.codecogs.com/png.latex?\inline&space;\bg_white&space;(x_0,&space;y_0)" title="(x_0, y_0)" />
 
 <img src="https://latex.codecogs.com/png.latex?\inline&space;\bg_white&space;y_{n&plus;1}&space;=&space;F2(x_n,&space;y_n,&space;p)&space;=&space;p(3x_n&space;&plus;&space;1)y_n(1&space;-&space;y_n)" title="y_{n+1} = F2(x_n, y_n, p) = p(3x_n + 1)y_n(1 - y_n)" />
 <img src="https://latex.codecogs.com/png.latex?\inline&space;\bg_white&space;x_{n&plus;1}&space;=&space;F1(x_n,&space;y_n,&space;p)&space;=&space;p(3y_n&space;&plus;&space;1)x_n(1&space;-&space;x_n)" title="x_{n+1} = F1(x_n, y_n, p) = p(3y_n + 1)x_n(1 - x_n)" />
