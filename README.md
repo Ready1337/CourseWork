@@ -1,4 +1,4 @@
-# Search-for-attractive-sets-of-recurrent-sequences
+# Search_for_attractive_sets_of_recurrent_sequences
 
 ## Problem: find attractive sets of recurrent sequences
 
